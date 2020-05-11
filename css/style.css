@@ -12,7 +12,7 @@ header {
 
 }
 
-h1 {color:#eee;
+h1 {color:black;
     font-size:28px;
     
 }
@@ -39,10 +39,10 @@ h2 {font-size: 24px;
     width:200px;
 }
 
-.line-color {
-    color:red;
-}
-
 .sub-bio { text-align: justify;
     
 }
+
+a {
+    color: #d21034;
+  }
